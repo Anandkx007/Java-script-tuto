@@ -1,0 +1,42 @@
+
+                                          ----------------------HTML---------------
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        alert("Hello world5");
+    </script>
+    <!-- <script src="js/first.js">
+    </script> -->
+</head>
+<body>
+    <h1 id="h">JS Tutorial</h1>
+    <script src="js/first.js">
+    </script>
+    <script>
+        alert("Hello world");
+    </script>
+    <script> 
+    document.write("hellon");
+    </script>
+</body>
+</html>
+
+
+
+          ------------------- JS ---------------------
+
+
+
+alert("Hello World8");
+
+document.getElementById("h").innerHTML = "ANAND";
+
+document.write("hellon");
+
+console.log("console output");
