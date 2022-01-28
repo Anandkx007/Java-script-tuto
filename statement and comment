@@ -1,0 +1,19 @@
+------------------------ JS ---------------------------
+
+var a;
+a=5;
+
+// single line comment
+// this will popup 5; comment
+alert(a);
+
+
+
+// multiple line comments
+
+
+/* tjn
+ fdj
+ fudiu
+ fuhud */
+ 
